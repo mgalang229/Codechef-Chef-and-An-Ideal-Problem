@@ -12,9 +12,7 @@ int main() {
 		cout << 2;
 	} else if (y == 2) {
 		cout << 1;
-	} else {
-		cout << 2;
-	}
+	} 
 	cout << '\n';
 	return 0;
 }
